@@ -1,0 +1,54 @@
+a {
+    text-decoration: none !important;
+}
+.btn-google {
+    color: #fff !important;
+    background-color: #ea4335 !important;
+    border-color: #fff !important;
+}
+  
+.btn-google:hover {
+    color: #fff !important;
+    background-color: #e12717 !important;
+    border-color: #e6e6e6 !important;
+}
+
+.btn-facebook {
+    color: #fff !important;
+    background-color: #3b5998!important;
+    border-color: #fff!important;
+}
+  
+.btn-facebook:hover {
+    color: #fff!important;
+    background-color: #30497c!important;
+    border-color: #e6e6e6!important;
+}
+
+.btnBg{
+    background-color: #802c6e !important;
+    border-color: #802c6e !important;
+}
+
+.btnBg:hover {
+    background-color: #802c6e!important;
+    border-color: #802c6e!important;
+}
+
+.btnBg:active {
+    background-color: #802c6e!important;
+    border-color: #802c6e!important;
+}
+
+.bg-login-image {
+    min-height: 578px !important;
+}
+
+.user {
+    margin: 0;
+    width: 75%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+  }

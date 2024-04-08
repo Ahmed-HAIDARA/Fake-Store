@@ -1,0 +1,17 @@
+.bg-span {
+    background-color: #802c6e!important;
+    padding: 4px;
+    color: white;
+}
+
+.react-rater{
+    font-size: 32px;
+    margin: 0px;
+}
+.react-rater-star.is-active {
+    color: gold !important
+}
+
+.react-rater-star.is-active-half:before{
+    color: gold !important
+}

@@ -1,0 +1,9 @@
+.bg-gradient-primary{
+    background-color: #802c6e;
+    background-image: none;
+    background-size: cover
+}
+
+.logo img {
+    width: 50px;
+}

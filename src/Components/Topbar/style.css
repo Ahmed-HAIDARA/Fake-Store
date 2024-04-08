@@ -1,0 +1,14 @@
+.btnBg{
+    background-color: #802c6e !important;
+    border-color: #802c6e !important;
+}
+
+.btnBg:hover {
+    background-color: #802c6e!important;
+    border-color: #802c6e!important;
+}
+
+.btnBg:active {
+    background-color: #802c6e!important;
+    border-color: #802c6e!important;
+}
